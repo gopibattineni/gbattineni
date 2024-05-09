@@ -1,8 +1,30 @@
-# gbattineni
+# Gopi Battineni
 gbattineni/profile
-# PhD in Medical Informatics
+##### PhD in Medical Informatics
 
-#### Programming and digital skills
+## Education
+- 2021: Ph.D. in Medical Informatics, University of Camerino, Camerino, Italy (110L/110)
+- 2017: International Master (IMS) in Enterprise Engineering, University of Bordeaux, France
+- 2016: Masters (MS) in Enterprise System Professional, Sheffield Hallam University, UK
+– 2012: Bachelor of Technology (B Tech) in Electronics and Communication Engineering, JNTU, India
+
+## Research experience
+**Research Assistant (Assegno di Ricerca SSD BIO/16) fellowship, University of Camerino, Italy (January 2022 - Present)**
+#### Project(s) handling:
+- Marche is Biobanking in the field of personalized medicine, focusing on drugs, diagnostics, and new therapeutic approaches.
+- Development of Seafarers Epidemiological Observatory called OSPIEMARE
+#### Roles and responsibilities
+- Collaborating with healthcare providers, research institutions, pharmaceutical companies, and regulatory bodies
+- Providing access to well-characterized, diverse samples and associated data supports the development of new drugs, diagnostic tools, and therapeutic approaches.
+- The development of ML models that can predict how patients might respond to specific treatments based on their genetic makeup, medical history, and other factors. This aids in personalized treatment plans, allowing healthcare providers to tailor therapies for individual patients.
+- Giving support in selecting relevant features from complex datasets, and determining which factors are most crucial in predicting disease risks or treatment outcomes.
+
+**Doctoral candidate (Italian Ministry of Economic Development (MISE) with Grant No. F/080034/01/X35) (_Mar 2018 - Dec 2021_)**
+#### Project(s) handling:
+Development of Machine Learning Models with motivation for early-stage identification of dementia in older adults 
+
+
+## Programming and digital skills
 - Python: NumPy (advanced), Pandas (advanced), Sci-Kit Learn (advanced), Pytorch (medium), Keras (advanced), Tensor Flow (advanced)
 - R: Statistics (Advanced), multivariate analysis (Basic)
 - MySQL: Expert
@@ -10,27 +32,7 @@ gbattineni/profile
 - Others: Microsoft Office | Kanva | Paint Shop Pro | TeamViewer | Several email packages | Website developer
 - Tools: ProM, Disco, Rapid Miner, Weka
 - Certifications: OpenCV Tensor flow, Keras
-
-## Education
-2018 – 2021: Ph.D. in Medical Informatics, University of Camerino, Camerino, Italy (110L/110)
-Grade: Excellent with lode (Maximum mark)
-Dissertation title: Comprehensive Machine Learning Algorithms to evaluate the older adult dementia progression
-Research topics covered: Machine Learning in the diagnosis of chronic diseases, Telemedicine, Text Mining of medical documents, Health data Mining, Health website development, ICT Technologies, R statistics, Scikit Learn, Big data, and Predictive modeling.
-2016 – 2017: International Master (IMS) in Enterprise Engineering, University of Bordeaux, France
-Grade: A+ Proficiency: Data Mining, MRP II, GRAI, Enterprise Modeling, and Industrial Engineering were attained, equipping with a robust skill set crucial for navigating modern business landscapes with analytical precision and strategic foresight.
-2014 – 2016: Masters (MS) in Enterprise System Professional, Sheffield Hallam University, UK
-Grade: A Proficiency: Web Development, ERP, SAS, Data Structures, RDBS, and MySQL were attained, providing a solid foundation for leveraging technology in optimizing organizational processes and decision-making
-2008 – 2012: Bachelor of Technology (B Tech) in Electronics and Communication Engineering, JNTU, India
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+  
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
