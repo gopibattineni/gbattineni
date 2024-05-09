@@ -1,13 +1,26 @@
 # gbattineni
 gbattineni/profile
-# Data Scientist
+# PhD in Medical Informatics
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Programming and digital skills
+- Python: NumPy (advanced), Pandas (advanced), Sci-Kit Learn (advanced), Pytorch (medium), Keras (advanced), Tensor Flow (advanced)
+- R: Statistics (Advanced), multivariate analysis (Basic)
+- MySQL: Expert
+- Power BI: Professional
+- Others: Microsoft Office | Kanva | Paint Shop Pro | TeamViewer | Several email packages | Website developer
+- Tools: ProM, Disco, Rapid Miner, Weka
+- Certifications: OpenCV Tensor flow, Keras
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+2018 – 2021: Ph.D. in Medical Informatics, University of Camerino, Camerino, Italy (110L/110)
+Grade: Excellent with lode (Maximum mark)
+Dissertation title: Comprehensive Machine Learning Algorithms to evaluate the older adult dementia progression
+Research topics covered: Machine Learning in the diagnosis of chronic diseases, Telemedicine, Text Mining of medical documents, Health data Mining, Health website development, ICT Technologies, R statistics, Scikit Learn, Big data, and Predictive modeling.
+2016 – 2017: International Master (IMS) in Enterprise Engineering, University of Bordeaux, France
+Grade: A+ Proficiency: Data Mining, MRP II, GRAI, Enterprise Modeling, and Industrial Engineering were attained, equipping with a robust skill set crucial for navigating modern business landscapes with analytical precision and strategic foresight.
+2014 – 2016: Masters (MS) in Enterprise System Professional, Sheffield Hallam University, UK
+Grade: A Proficiency: Web Development, ERP, SAS, Data Structures, RDBS, and MySQL were attained, providing a solid foundation for leveraging technology in optimizing organizational processes and decision-making
+2008 – 2012: Bachelor of Technology (B Tech) in Electronics and Communication Engineering, JNTU, India
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
