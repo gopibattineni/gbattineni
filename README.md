@@ -34,6 +34,20 @@ Development of Machine Learning Models with motivation for early-stage identific
 - Certifications: OpenCV Tensor flow, Keras
   
 ## Projects
+
+### 2018-21: Development of a telemedical assistance system called Marine Doctor for seafarers 
+The purpose of “MARINE DOCTOR” is to simplify the medical assistance of seafarers. The developed software is friendly simple, fast, and compatible with any computer. The main function of the system is to register and store seafarers' and doctors' details and guide the user to send a medical request with a simple form of a questionnaire. 
+
+	2021-2023: Marche Biobanks
+The collaborative research platform for personalized medicine: drugs, diagnostics, and new therapeutic approaches. Marche Biobank’s reach is strategic for 4P (Personalized, Predictive, Preventive, and Participatory) medicine.
+
+	2020-2022: Enabling Consumers to Become Prosumer in the Energy Transition Era (ECPE) 
+The purpose of the project is to coordinate the various norms, collecting and promoting best practices in the interpretation and application of the various forms. The project will analyse the prosumer's behaviours from multiple perspectives (for this reason is very important the choose a multidisciplinary approach from all partners). The ECPE project will enhance the use of collaborative behaviour in the energy consumption and production market.
+
+	2022-2024: Development of seafarer’s health observatory (OSPIEMARE)  
+
+This project aims to develop a data observatory of seafarers to improve health status by monitoring communicable and non-communicable diseases of seafarers by monitoring their health and disease trends, creating a standard tool (questionnaires), and conducting a risk assessment.
+
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
